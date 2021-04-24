@@ -2,7 +2,7 @@
 
 Punk rock kid turned SRE / DevOps practitioner.
 
-Currently SRE at [brandfolder](brandfolder.com)
+Currently SRE at [brandfolder](https://brandfolder.com)
 
 
 - [@brunchybit](https://twitter.com/brunchybit)
