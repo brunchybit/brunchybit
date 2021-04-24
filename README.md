@@ -1,9 +1,12 @@
 ### Hi 👋
 
-Former Punk Rock kid turned DevOps / SRE specialist. 
+Punk rock kid turned SRE / DevOps practitioner.
+
+Currently SRE at [brandfolder](brandfolder.com)
 
 
 - [@brunchybit](https://twitter.com/brunchybit)
-- 🔭 Working on the CKA 
 - 🌱 Learning Rust
+- I love challenging scale and data problems
+- Currently stoked on Kubernetes, Rust, and Go
 
