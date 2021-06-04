@@ -11,10 +11,9 @@ Stuff I love:
 
 ### Work
 
-I am currently SRE at [brandfolder](https://brandfolder.com)
+I am currently SRE at [brandfolder](https://brandfolder.com).
 Formerly, I worked at [testdouble](https://testdouble.com) as their Lead DevOps consultant. 
 I also worked at [cloudability](https://www.apptio.com/products/cloudability/), albeit prior to their acquisition by Apptio. 
-
 I was the first full time software engineer hire at [ello.co](https://ello.co/), which was a total blast.
 
 
