@@ -20,11 +20,13 @@ I was the first full time software engineer hire at [ello.co](https://ello.co/),
 
 ### Let's Get in Touch!
 
-twitterverse: [@brunchybit](https://twitter.com/brunchybit)
+twitterverse: [@warlocktame](https://twitter.com/walocktame)
 
 ### What I'm working on
 
-- Certified Kubernetes Administrator
-- Offensive Security Certified Professional
+- DR and Multi-Region Postgres HA
+- Tuning / Stress Testing and Measuring PostgreSQL
+- Google Cloud Platform
+
 
 
