@@ -8,6 +8,7 @@ Stuff I love:
 - Data driven decisions on cloud spend and rightsizing of cloud resources
 - Deep dives into containerization, kubernetes
 - Stress, soak, smoke, performance, and chaos testing
+- PostgreSQL High Availability and Scale
 
 ### Work
 
