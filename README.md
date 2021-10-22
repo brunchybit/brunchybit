@@ -20,7 +20,7 @@ I was the first full time software engineer hire at [ello.co](https://ello.co/),
 
 ### Let's Get in Touch!
 
-twitterverse: [@warlocktame](https://twitter.com/walocktame)
+twitterverse: [@warlocktame](https://twitter.com/warlocktame)
 
 ### What I'm working on
 
