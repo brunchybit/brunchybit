@@ -27,6 +27,6 @@ twitterverse: [@warlocktame](https://twitter.com/warlocktame)
 - DR and Multi-Region Postgres HA
 - Tuning / Stress Testing and Measuring PostgreSQL
 - Google Cloud Platform
-
+- Machine Learning for Chaos Engineering and Infrastructure Right Sizing
 
 
