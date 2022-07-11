@@ -4,6 +4,7 @@ I'm a punk rock kid turned SRE / DevOps practitioner.
 
 Stuff I love: 
 - Solving tough problems at large scale
+- InfoSec and DevSecOps
 - Automating tedious, unnecessary, and error prone tasks. 
 - Data driven decisions on cloud spend and rightsizing of cloud resources
 - Deep dives into containerization, kubernetes
