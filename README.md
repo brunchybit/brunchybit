@@ -3,7 +3,7 @@
 I'm a punk rock kid turned SRE / DevOps practitioner.
 
 Stuff I love: 
-- Sovling tough problems at large scale
+- Solving tough problems at large scale
 - Automating tedious, unnecessary, and error prone tasks. 
 - Data driven decisions on cloud spend and rightsizing of cloud resources
 - Deep dives into containerization, kubernetes
@@ -18,15 +18,9 @@ I also worked at [cloudability](https://www.apptio.com/products/cloudability/), 
 I was the first full time software engineer hire at [ello.co](https://ello.co/), which was a total blast.
 
 
-### Let's Get in Touch!
-
-twitterverse: [@warlocktame](https://twitter.com/warlocktame)
-
 ### What I'm working on
 
-- DR and Multi-Region Postgres HA
+- InfoSec
+- Kubernetes
 - Tuning / Stress Testing and Measuring PostgreSQL
 - Google Cloud Platform
-- Machine Learning for Chaos Engineering and Infrastructure Right Sizing
-
-
