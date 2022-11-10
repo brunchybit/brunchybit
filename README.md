@@ -1,6 +1,6 @@
 ### Hi, nice to meet ya 👋
 
-I'm a punk rock kid turned SRE / DevOps practitioner.
+I'm a punk rock kid turned engineer.
 
 Stuff I love: 
 - Solving tough problems at large scale
