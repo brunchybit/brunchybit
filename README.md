@@ -1,10 +1,8 @@
 ### Hi, nice to meet ya 👋
 
-I'm a punk rock kid turned engineer.
 
 Stuff I love: 
-- Solving tough problems at large scale
-- InfoSec and DevSecOps
+- Application Security
 - Automating tedious, unnecessary, and error prone tasks. 
 - Data driven decisions on cloud spend and rightsizing of cloud resources
 - Deep dives into containerization, kubernetes
@@ -14,14 +12,9 @@ Stuff I love:
 ### Work
 
 I am currently a Principal Engineer at [brandfolder](https://brandfolder.com).
+
 Formerly, I worked at [testdouble](https://testdouble.com) as their Lead DevOps consultant / Director of Infrastructure Services.
+
 I also worked at [cloudability](https://www.apptio.com/products/cloudability/), albeit prior to their acquisition by Apptio. 
-I was the first full time software engineer hire at [ello.co](https://ello.co/), which was a total blast.
 
-
-### What I'm working on
-
-- InfoSec
-- Traffic Management
-- Observability
-- Data Architecture at scale
+I was the first full time software engineer hire at [ello.co](https://ello.co/). Fun times.
