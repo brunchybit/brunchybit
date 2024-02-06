@@ -4,7 +4,7 @@ I am a DevOps / Platform / SRE / Cloud Engineer who loves to solve tough problem
 
 Stuff I love to work on:
 - Performant, scalable solutions
-- Grin-inducing observability
+- Meaningful observability
 - Security Engineering
 - Automating tedious, unnecessary, and error prone tasks. 
 - Developing data driven decisions on cloud spend and rightsizing of cloud resources
