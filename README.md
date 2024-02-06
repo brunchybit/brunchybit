@@ -10,7 +10,7 @@ Stuff I love to work on:
 - Developing data driven decisions on cloud spend and rightsizing of cloud resources
 - Deep dives into Kubernetes and all relevant esoterica
 - Stress, soak, smoke, performance, and chaos testing
-- PostgreSQL High Availability and Scale
+- Highly available database systems.
 
 ### Work
 
