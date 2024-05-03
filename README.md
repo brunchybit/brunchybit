@@ -17,7 +17,7 @@ I am a DevOps / Platform / SRE / Cloud Engineer who loves to solve tough problem
 
 ### Work
 
-I am currently a Principal Engineer at [FocusedLabs](https://focusedlabs.io/) where I run DevOps and Infrastructure consulting. 
+I am currently a Principal Engineer at [FocusedLabs](https://focusedlabs.io/) where I lead DevOps, Infrastructure and Site Reliability Consulting, as well as our strategic partnership with [Honeycomb](https://www.honeycomb.io/)
 
 Other places I've worked include: 
 
