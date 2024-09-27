@@ -2,6 +2,11 @@
 
 I am a DevOps / Platform / SRE / Cloud Engineer who loves to solve tough problems at scale. 
 
+I am a Principal Software Engineer with 17+ years of experience in Site Reliability Engineering (SRE) and Infrastructure. I thrive on building scalable platforms and optimizing cloud environments to drive innovation and efficiency.
+
+At Focused Labs, I lead our DevOps practice, where we partner with clients to enhance their system reliability and performance. My tenure at Smartsheet and Cloudability allowed me to refine my skills in cloud cost management and strategic consulting, empowering clients to unlock their full potential.
+
+I’ve held leadership roles, including Director of Infrastructure Services at Test Double, where I guided teams to adopt best practices in DevOps. I’m passionate about mentoring the next generation of engineers and fostering a culture of collaboration and creativity.
 
 ### Interests 
 
